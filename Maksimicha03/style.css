@@ -1,0 +1,62 @@
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+header{
+    display:flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color:black;
+
+}
+h1{
+    font-size:30px;
+    color:#575810;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+main{
+    background-color:#E1CB5A;
+}
+p{
+    font-size:30px;
+    color: #575810;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+.left{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-around;
+    align-items: center;
+}
+.right{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+article{
+    background-color: #c3ab32;
+}
+.ssilka{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+
+}
+.ssilki
+{
+    height: 300px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
